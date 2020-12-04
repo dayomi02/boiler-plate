@@ -20,7 +20,7 @@ mongoose.connect(config.mongoURI,{
     .catch(err => console.log(err))
 
 app.get('/', (req, res) => {
-  res.send('Hello World! nodemon다운받음 정보보안함')
+  res.send('Hello World! nodemon다운받음, 비밀 정보 보호')
 })
 
 
