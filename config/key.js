@@ -3,3 +3,4 @@ if(process.env.NODE_ENV === 'production'){
 } else{
     module.exports = require('./dev');
 }
+//환경변수에 따라서 prod인지dev인지 선택
