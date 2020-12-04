@@ -4,8 +4,6 @@ const port = 5000
 const bodyParser = require('body-parser');
 
 const config = require('./config/key');
-//새로 만든 config파일에서key값을 가져옴
-
 const { User } = require("./models/User");
 
 //application/x-www-from-urlencoded
