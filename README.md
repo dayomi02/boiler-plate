@@ -4,4 +4,4 @@
 개발 언어 : JavaScript, node js <br/><br/>
 개발 환경 : Visual Studio Code <br/><br/>
 의존성(Dependency)<br/>
-> rpm install mongoose --save <br/>npm install body-parser --save <br/>npm install bcrypt --save
+> rpm install mongoose --save <br/>npm install body-parser --save <br/>npm install bcrypt --save<br/>npm install jsonwebtoken --save<br/>npm install cookie-parser --save
